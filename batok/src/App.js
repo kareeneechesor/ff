@@ -110,7 +110,7 @@ function App() {
               <div className="a">
                 <p className="q">Name: {val.name}</p>
                 <p className="q">Email: {val.email}</p>
-                <p className="q">Password: {val.password}</p><hr/>
+                <p className="q">Password: {val.password}</p>
                
               </div>
             </div>
